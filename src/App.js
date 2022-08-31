@@ -87,7 +87,7 @@ function App() {
     addItem(newItem)
     setNewItem('');
   }
-  return (
+  return ( 
     <div className="App">
       <Header />
       <AddItem
